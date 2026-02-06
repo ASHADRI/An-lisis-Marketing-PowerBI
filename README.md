@@ -15,9 +15,8 @@ El repositorio está organizado de la siguiente manera:
 | Carpeta | Contenido |
 | :--- | :--- |
 | 📁 **data/** | Datasets originales y procesados (CSV/XLSX). |
-| 📁 **notebook/** | Scripts de Python (.ipynb) para limpieza y ETL. |
 | 📁 **dashboard/** | Archivo fuente de Power BI (.pbix). |
-| 📁 **report/** | Documentación técnica e interpretación de resultados. |
+| 📁 **reporte/** | Documentación técnica e interpretación de resultados. |
 
 ---
 
